@@ -1,0 +1,7 @@
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\obj\Debug\EazyLearn.Collections.csproj.CoreCompileInputs.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\bin\Debug\EazyLearn.Collections.exe.config
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\bin\Debug\EazyLearn.Collections.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\bin\Debug\EazyLearn.Collections.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\obj\Debug\EazyLearn.Collections.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\obj\Debug\EazyLearn.Collections.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\Collections\EazyLearn.Collections\EazyLearn.Collections\obj\Debug\EazyLearn.Collections.csprojAssemblyReference.cache
